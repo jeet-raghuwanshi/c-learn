@@ -24,7 +24,6 @@ std ::cout <<"please enter your full name"<<std::endl;
 std::getline(std::cin,full_name);
 */
 
-std::cout<<"this is to test git"<< std::endl;
 
     return 0;
 }
